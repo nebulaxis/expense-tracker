@@ -1,0 +1,74 @@
+date,amount,vendor,description
+2026-01-01,500,swiggy,lunch
+2026-01-01,1200,amazon,shopping
+2026-01-02,800,uber,ride
+2026-01-02,1500,zomato,dinner
+2026-01-03,2000,amazon,shopping
+2026-01-03,300,swiggy,snacks
+2026-01-04,700,uber,ride
+2026-01-04,2500,amazon,electronics
+2026-01-05,600,zomato,lunch
+2026-01-05,1000,swiggy,dinner
+
+2026-01-06,500,swiggy,lunch
+2026-01-06,2200,amazon,shopping
+2026-01-07,900,uber,ride
+2026-01-07,1300,zomato,dinner
+2026-01-08,1800,amazon,shopping
+2026-01-08,400,swiggy,snacks
+2026-01-09,600,uber,ride
+2026-01-09,3000,amazon,electronics
+2026-01-10,700,zomato,lunch
+2026-01-10,1100,swiggy,dinner
+
+2026-01-11,550,swiggy,lunch
+2026-01-11,2100,amazon,shopping
+2026-01-12,850,uber,ride
+2026-01-12,1400,zomato,dinner
+2026-01-13,1900,amazon,shopping
+2026-01-13,350,swiggy,snacks
+2026-01-14,750,uber,ride
+2026-01-14,2700,amazon,electronics
+2026-01-15,650,zomato,lunch
+2026-01-15,1200,swiggy,dinner
+
+2026-01-16,500,swiggy,lunch
+2026-01-16,2000,amazon,shopping
+2026-01-17,800,uber,ride
+2026-01-17,1500,zomato,dinner
+2026-01-18,2100,amazon,shopping
+2026-01-18,300,swiggy,snacks
+2026-01-19,900,uber,ride
+2026-01-19,3200,amazon,electronics
+2026-01-20,700,zomato,lunch
+2026-01-20,1000,swiggy,dinner
+
+2026-01-21,600,swiggy,lunch
+2026-01-21,2400,amazon,shopping
+2026-01-22,850,uber,ride
+2026-01-22,1600,zomato,dinner
+2026-01-23,2200,amazon,shopping
+2026-01-23,400,swiggy,snacks
+2026-01-24,950,uber,ride
+2026-01-24,3500,amazon,electronics
+2026-01-25,800,zomato,lunch
+2026-01-25,1300,swiggy,dinner
+
+#  ANOMALY DATA (important for testing)
+2026-01-26,15000,amazon,big purchase
+2026-01-27,18000,amazon,bulk order
+2026-01-28,20000,amazon,expensive gadget
+2026-01-29,17000,amazon,office setup
+2026-01-30,25000,amazon,high value purchase
+
+# normal data again
+2026-01-31,500,swiggy,lunch
+2026-02-01,2000,amazon,shopping
+2026-02-02,800,uber,ride
+2026-02-03,1200,zomato,dinner
+2026-02-04,1500,amazon,shopping
+2026-02-05,300,swiggy,snacks
+2026-02-06,700,uber,ride
+2026-02-07,2500,amazon,electronics
+2026-02-08,600,zomato,lunch
+2026-02-09,1000,swiggy,dinner
